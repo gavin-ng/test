@@ -4,6 +4,7 @@ setwd('C:/Users/Gavin/Box Sync/Projects/Contextual Cueing/ContextualCueingNew_Ex
 library(tidyverse)
 library(ez)
 library(broom)
+library(ggplot)
 
 
 ## Functions
