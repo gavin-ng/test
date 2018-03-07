@@ -5,6 +5,7 @@ library(tidyverse)
 library(ez)
 library(broom)
 library(ggplot)
+library(dylpr)
 
 
 ## Functions
